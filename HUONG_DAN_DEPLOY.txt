@@ -1,0 +1,7 @@
+PHAT PHAP LIVE 3D - VERCEL
+
+1. Tao repository GitHub moi, tai len TAT CA file trong ZIP nay vao thu muc goc. KHONG tai thu muc phat-phap-live cu len.
+2. Vercel: New Project > Import repository moi > Framework Preset: Other > Root Directory: ./ > Build Command: blank > Output Directory: blank (hoac . neu Vercel yeu cau).
+3. Deploy. Trang LIVE: https://ten-mien-cua-ban/overlay.html
+4. Neu dung lai repository cu, XOA cac file Python va thu muc api/ khoi repository truoc khi deploy; dam bao root directory dung.
+5. Day la website giao dien tinh; ket noi TikTok va TTS server can chay rieng.
