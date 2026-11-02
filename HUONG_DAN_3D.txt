@@ -1,0 +1,11 @@
+PHAT PHAP LIVE - NHAN VAT 3D AO DAI
+
+1. Mo overlay.html qua localhost (khong dung file://) de tai module Three.js.
+2. Cac nhan vat 3D mac ao dai, co hai ta ao, di vao tu loi giua, cui lay va di ra.
+3. Nhan vat trong hang la mo hinh 3D; nhan vat co ten la nguoi dang di le.
+4. Can internet de tai Three.js tu CDN. Neu CDN bi chan, phan nhan vat se khong hien.
+5. Muon deploy Vercel: upload RIENG noi dung thu muc deploy-vercel len repository moi, chon Framework Other, khong build command.
+6. Phan ket noi TikTok Python/Node trong thu muc goc CHI chay tren Windows, khong dua vao Vercel.
+7. overlay.html la canh LIVE; index.html la trang dieu khien.
+
+GHI CHU: Day la mo hinh 3D WebGL tao bang hinh khoi va vat lieu, khong phai nhan vat 3D realistic da rig chuyen nghiep. Ao dai la dang ao cach dieu 3D don gian. Ban can chinh tiep neu muon chi tiet thuc te hon.
